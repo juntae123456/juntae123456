@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=250&section=header&text=jun_CODING&fontSize=90)
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=250&section=header&text=jun_CODING&fontSize=90"/>
+</h1>
 
 <h3 align="center">🛠Stack🛠</h3>
 <div align="center">
