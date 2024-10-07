@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=250&section=header&text=JUN_CODING&fontSize=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&theme=tokyonight&height=250&section=header&text=JUN_CODING&fontSize=90"/>
 </div>
 
 <h3 align="center">🛠Stack🛠</h3>
