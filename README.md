@@ -42,6 +42,21 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp
 </div>
 
+<h3 align="center">📞 Contact 📞</h3>
+<div align="center">
+    <a href="mailto:esse3134@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://open.kakao.com/o/sjYrKaTg">
+        <img src="https://img.shields.io/badge/
+        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+    <a href="https://www.instagram.com/jun_00_tae">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+</div>
 <br>
 
 
