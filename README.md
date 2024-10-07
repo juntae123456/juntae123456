@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"/>&nbsp
+  <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=for-the-badge"/>&nbsp
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
