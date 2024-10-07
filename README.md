@@ -3,6 +3,7 @@
 </div>
 
 <h3 align="center">🛠Stack🛠</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=44B6FF&width=435&lines=Techs+that+l've+used+at+least+once" alt="Typing SVG" /></a>
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>&nbsp
