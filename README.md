@@ -54,6 +54,9 @@
     <a href="https://www.instagram.com/jun_00_tae">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">&nbsp 
     </a>
+  <a href="mailto:esse3404028@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">&nbsp 
+  </a>
 </div>
 <br>
 
