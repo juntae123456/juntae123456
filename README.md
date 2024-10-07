@@ -45,20 +45,16 @@
 <h3 align="center">📞 Contact 📞</h3>
 <div align="center">
     <a href="mailto:esse3134@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">&nbsp
     </a>
     <a href="https://open.kakao.com/o/sjYrKaTg">
-        <img src="https://img.shields.io/badge/
-        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk">&nbsp 
     </a>
     <a href="https://www.instagram.com/jun_00_tae">
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">&nbsp 
     </a>
 </div>
 <br>
-
 
 <div align="center">
   <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=juntae123456&show_icons=true&include_all_commits=true&theme=nord&hide_border=true"   alt="SOKURI's github stats" /></a>
